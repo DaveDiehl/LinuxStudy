@@ -15,6 +15,8 @@ export $ENVVAR; sets it for multiple shells
 ls -a (all files)
 ls -ah
 
+##### Globbing
+
 ##### Users
 su -- switches user
 su - switches to root
